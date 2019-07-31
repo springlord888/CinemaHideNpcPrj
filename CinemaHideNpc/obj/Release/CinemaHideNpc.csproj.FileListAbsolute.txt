@@ -1,0 +1,5 @@
+E:\sandBox\sandbox_res\resource\develop\cinema_hidenpc_config_tool\CinemaHideNpc\CinemaHideNpc\bin\Release\CinemaHideNpc.exe
+E:\sandBox\sandbox_res\resource\develop\cinema_hidenpc_config_tool\CinemaHideNpc\CinemaHideNpc\bin\Release\CinemaHideNpc.pdb
+E:\sandBox\sandbox_res\resource\develop\cinema_hidenpc_config_tool\CinemaHideNpc\CinemaHideNpc\obj\Release\CinemaHideNpc.exe
+E:\sandBox\sandbox_res\resource\develop\cinema_hidenpc_config_tool\CinemaHideNpc\CinemaHideNpc\obj\Release\CinemaHideNpc.pdb
+E:\sandBox\sandbox_res\resource\develop\cinema_hidenpc_config_tool\CinemaHideNpc\CinemaHideNpc\obj\Release\CinemaHideNpc.csprojResolveAssemblyReference.cache
